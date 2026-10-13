@@ -5,6 +5,7 @@ using namespace std;
 
 int main() {
     int arr[7] = {12, 45, 67, 45, 34, 67, 56};
+    INT_MIN = arr[0];
     int largest = INT_MIN;
     int second = INT_MIN;
 
